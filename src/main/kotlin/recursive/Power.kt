@@ -1,6 +1,6 @@
-package first_recursive
+package recursive
 
-fun main(args: Array<String>) {
+fun main() {
     println(power(2, 2))
     println(power(2, -1))
     println(power(10, 5))

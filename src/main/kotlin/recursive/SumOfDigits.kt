@@ -1,11 +1,11 @@
-package first_recursive
+package recursive
 
 /**
  * Sum the input
  * ex: 111 --> 3
  *     9138 --> 9 + 1 + 3 + 8 = 21
  */
-fun main(args: Array<String>) {
+fun main() {
     println(sumOfDigit(20))
     println(sumOfDigit(56))
     println(sumOfDigit(111))
