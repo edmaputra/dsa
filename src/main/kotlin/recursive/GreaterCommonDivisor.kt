@@ -6,7 +6,7 @@ fun main() {
 }
 
 /**
- * GCD (Greates Common Divisor) is the largest positive number
+ * GCD (Greatest Common Divisor) is the largest positive number
  * that divide the numbers without any remainder.
  *
  * Euclidean Algorithm
